@@ -2,7 +2,7 @@
 ## Pia Zeller, OMB5
 
 ### Aufgabe 2.01
-<a href="https://piazeller.github.io/IFDWiSe20-21/A02.html"> Prototyping-Tool </a>
+<a href="https://piazeller.github.io/IFDWiSe20-21/A02/A02.html"> Prototyping-Tool </a>
 
 
 ### Aufgabe 01
