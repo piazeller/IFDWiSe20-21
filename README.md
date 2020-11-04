@@ -5,7 +5,7 @@
 
 erstellt mit Adobe XD
 
-[Vorschau öffnen](https://xd.adobe.com/view/e545f9ac-f0d8-4f05-8ef8-ddcb1c484d88-b016/)
+[öffnen](https://xd.adobe.com/view/e545f9ac-f0d8-4f05-8ef8-ddcb1c484d88-b016/)
 
 ### Aufgabe 2.2 - Konzeptentwurf DM Intranet
 <a href="https://piazeller.github.io/IFDWiSe20-21/A02.2/A02.2.html"> öffnen </a>
