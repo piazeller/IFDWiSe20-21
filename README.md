@@ -3,7 +3,7 @@
 
 ### Aufgabe 8 - Mixed Reality + HMD (Cardboard)
 
-<a href="https://piazeller.github.io/IFDWiSe20-21/A08/A8.html"> öffnen </a>
+<a href="https://piazeller.github.io/IFDWiSe20-21/A08/A08.html"> öffnen </a>
 
 ### Aufgabe 6/7 - VUI Umsetzung
 
