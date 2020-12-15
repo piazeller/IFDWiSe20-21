@@ -1,10 +1,6 @@
 # InterFaceDesign
 ## Pia Zeller, OMB5
 
-### Aufgabe 9 - Virtual Immersive Lecture (Konzept)
-
-<a href="https://piazeller.github.io/IFDWiSe20-21/A09/A09.html"> öffnen </a>
-
 ### Aufgabe 8 - Mixed Reality + HMD (Cardboard)
 
 <a href="https://piazeller.github.io/IFDWiSe20-21/A08/A08.html"> öffnen </a>
