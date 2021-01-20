@@ -6,7 +6,7 @@
 <a href="https://piazeller.github.io/IFDWiSe20-21/A00/00_SWOT.xd"> Prototyp öffnen </a>
 <a href="https://piazeller.github.io/IFDWiSe20-21/A00/00_SWOT.mp4"> Video öffnen </a>
 
-### Aufgabe 01 - The Wallet Project
+### Aufgabe 1 - The Wallet Project
 <a href="https://piazeller.github.io/IFDWiSe20-21/A01/A01_The Wallet Project.pdf"> öffnen </a>
 
 ### Aufgabe 2.1 - Prototyping-Tool Adobe XD
