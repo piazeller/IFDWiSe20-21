@@ -25,11 +25,11 @@ erstellt mit Adobe XD
 ### Aufgabe 6/7 - VUI Umsetzung
 <a href="https://piazeller.github.io/IFDWiSe20-21/A06:07/A06:07.html"> öffnen </a>
 
-### Aufgabe 8 - Mixed Reality + HMD (Cardboard)
+### Aufgabe 8 - Mixed Reality + HMD (Konzept)
 <a href="https://piazeller.github.io/IFDWiSe20-21/A08/A08.html"> öffnen </a>
 
-### Aufgabe 9 - Virtual Immersive Lecture 
+### Aufgabe 9 - Mixed Reality + HMD (Umsetzung |)
 <a href="https://piazeller.github.io/IFDWiSe20-21/A09/A09.html"> öffnen </a>
 
-### Aufgabe 10 - Mixed Reality + HMD (Konzept)
+### Aufgabe 10 - Mixed Reality + HMD (Umsetzung ||)
 <a href="https://piazeller.github.io/IFDWiSe20-21/A10/A10.html"> öffnen </a>
